@@ -1,8 +1,8 @@
 # prelim
 on a laptop you only need to click two times:
 1. date
-2. book court
-you will need to select the court number beforehand. if you select court 3, you still be at court 3 even when click the same date again.
+2. book court  
+* you will need to select the court number beforehand. if you select court 3, you still be at court 3 even when click the same date again.
 
 # how to use
 1. install all the necessary dependencies, main one is `pyautogui`
